@@ -1,11 +1,18 @@
 ---
-title: "cadevanek.github.io"
+title: "Cade Vanek"
+image: media/picture.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/cadevanek/
+    - text: GitHub
+      href: https://github.com/cadevanek
+    - text: Email
+      href: mailto:cade.vanek@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+# Colorado State University

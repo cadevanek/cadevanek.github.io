@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+
+## [Building a project website]()
+
+-   Learned how to setup an independent website on github sites, as well as basic knowledge of the github workflow.
+-   Learned some basic principles of HTML and website design.
+-   Used Rstudio for the first time

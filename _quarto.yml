@@ -8,12 +8,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - resume.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
-
+    page-layout: full
+    fontcolor: "#8d47b8"
 editor: visual
 

@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "cadevanek@gmail.com | 512-851-3437 | Fort Collins, CO | linkedin.com/in/cadevanek\nAbout Me\nI am a student studying ecosystem and sustainability science. I have always been passionate about sustainability and ecology, and hope to help bridge the gaps between the natural world and the built environment. I value cooperation, collaboration, and empathy in a professional environment, and thrive as part of a goal-oriented team.\nEducation\nCurrently enrolled at Colorado State University, studying ecosystem and sustainability science, with an anticipated graduation year of 2026.\nProfessional Experience\nCrew Member, Cheba Hut — 2023-Current Works with a small team to provide quality food, service, sanitation, and equipment maintenance for a small sandwich shop.\nFront Desk, Comfort Inn — 2023 Booked reservations, greeted guests, managed housekeeping, washed and folded laundry, as well as independently maintained general cleanliness of lobby and pool, etc.\nPersonal Skills\nGeneral laboratory experience Management and monitoring of natural systems, such as terrariums and aquariums. Computer Science Skills Programming in Java, C, and Python Data structures and file management maintenance and observation of on-campus beehives as part of the apiculture club."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "cadevanek.github.io",
+    "title": "Cade Vanek",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Colorado State University"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am passionate about ecology and coexistence with natural systems, and am interesting in exploring the intersection between the built environment and natural ecology."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+  },
+  {
+    "objectID": "projects.html#building-a-project-website",
+    "href": "projects.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nLearned how to setup an independent website on github sites, as well as basic knowledge of the github workflow.\nLearned some basic principles of HTML and website design.\nUsed Rstudio for the first time"
   }
 ]
