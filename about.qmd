@@ -3,6 +3,6 @@ title: "About"
 image: media/cat.png
 ---
 
-I am passionate about ecology and coexistence with natural systems, and am interesting in exploring the intersection between the built environment and natural ecology.
+I am passionate about ecology and coexistence with natural systems, and am interesting in exploring the intersection between the built environment and natural ecology. I know a fair amount about plant and animal (including my cat) biology, it's something I love to study!
 
 ![](media/cat.png)
