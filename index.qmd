@@ -1,6 +1,6 @@
 ---
 title: "Cade Vanek"
-image: media/picture.jpg
+image: img/picture.jpg
 
 about: 
   template: jolla

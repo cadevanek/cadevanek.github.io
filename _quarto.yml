@@ -2,19 +2,32 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "cadevanek.github.io "
+  title: "cadevanek.github.io"
+  favicon: img/bumblebeelogo.png
   navbar:
-    left:
+    title: false # override printing your website `title` (e.g. "Sam Csik" on line 6) in the top left corner of your navbar
+    logo: img/bumblebeelogo.png
+    logo-alt: "Alt text for logo"
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
-      - resume.qmd
-
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: CV
+      - icon: github
+        href: https://github.com/cadevanek
+        target: _blank
+  page-footer:
+    background: light # or `dark`
+    left: 2025, Cade Vanek
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/cadevanek/cadevanek.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme: styles.scss # I've also removed the `css: styles.css` option that was included by default, since I'll be writing all my sass and css in this single styles.scss file
+    
     toc: true
     page-layout: full
     fontcolor: "#8d47b8"
