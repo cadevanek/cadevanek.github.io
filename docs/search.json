@@ -18,13 +18,48 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of labs!"
   },
   {
-    "objectID": "projects.html#building-a-project-website",
-    "href": "projects.html#building-a-project-website",
+    "objectID": "projects.html#lab-1--personal-portfolio",
+    "href": "projects.html#lab-1--personal-portfolio",
     "title": "Projects",
-    "section": "Building a project website",
-    "text": "Building a project website\n\nLearned how to setup an independent website on github sites, as well as basic knowledge of the github workflow.\nLearned some basic principles of HTML and website design.\nUsed Rstudio for the first time"
+    "section": "Lab 1- Personal Portfolio",
+    "text": "Lab 1- Personal Portfolio\nIn this lab, I learned how to setup an independent website on github sites, as well as basic knowledge of the github workflow. I also learned some basic principles of HTML and website design, as well as used Rstudio for the first time."
+  },
+  {
+    "objectID": "projects.html#lab-2--minnesota-tree-growth",
+    "href": "projects.html#lab-2--minnesota-tree-growth",
+    "title": "Projects",
+    "section": "Lab 2- Minnesota Tree Growth",
+    "text": "Lab 2- Minnesota Tree Growth\nIn this lab, I learned the basics of data manipulation through the dplyr package. I learned sorting, grouping, sumarization, as well as basic dataframe manipulation tools like slice, filter, and mutate."
+  },
+  {
+    "objectID": "projects.html#lab-3--covid-wrangling",
+    "href": "projects.html#lab-3--covid-wrangling",
+    "title": "Projects",
+    "section": "Lab 3- COVID Wrangling",
+    "text": "Lab 3- COVID Wrangling\nIn this lab, I analyzed New York Times COVD-19 data, examined trends, and learned to plot/graph data with ggplot. I learned different methods of filtering the data (such as getting per-capita info instead of raw numbers), and created a map of the virus’s spread across the continental US."
+  },
+  {
+    "objectID": "projects.html#lab-4--statistics-in-r",
+    "href": "projects.html#lab-4--statistics-in-r",
+    "title": "Projects",
+    "section": "Lab 4- Statistics in R",
+    "text": "Lab 4- Statistics in R\nFor this lab, I learned how to carry out statistical tests in R, such as linear regression and ANOVA. I also gained some experience interpreting statistical tests. I used these techniques to measure the effect of environmental factors on the physiology of different aquatic species."
+  },
+  {
+    "objectID": "projects.html#lab-5--machine-learning---workflows",
+    "href": "projects.html#lab-5--machine-learning---workflows",
+    "title": "Projects",
+    "section": "Lab 5- Machine Learning - Workflows",
+    "text": "Lab 5- Machine Learning - Workflows\nThis lab was my first experience setting up machine learning models. I learned to set up processing recipes, and compare the performance of different ML models. The modelling techniques were used to examine relationships in the CAMELS hydrology dataset.\n ## Lab 6- Machine Learning - Tuning\nIn this lab, I built on my machine learning skills, tuning hyperparameter for increased model performance. I also learned how to compare the performance of different tunings, comparing them to split testing data, and overall optimize ML performance."
+  },
+  {
+    "objectID": "projects.html#lab-7--distance-to-the-border",
+    "href": "projects.html#lab-7--distance-to-the-border",
+    "title": "Projects",
+    "section": "Lab 7- Distance to the Border",
+    "text": "Lab 7- Distance to the Border\nFor this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile border zone where federal agencies have claimed that the fourth amendment does not fully apply."
   }
 ]

@@ -2,10 +2,41 @@
 title: "Projects"
 ---
 
-In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of labs!
 
-## [Building a project website]()
+## Lab 1- Personal Portfolio
 
--   Learned how to setup an independent website on github sites, as well as basic knowledge of the github workflow.
--   Learned some basic principles of HTML and website design.
--   Used Rstudio for the first time
+In this lab, I learned how to setup an independent website on github sites, as well as basic knowledge of the github workflow. I also learned some basic principles of HTML and website design, as well as used Rstudio for the first time.
+
+## Lab 2- Minnesota Tree Growth
+
+In this lab, I learned the basics of data manipulation through the dplyr package. I learned sorting, grouping, sumarization, as well as basic dataframe manipulation tools like slice, filter, and mutate.
+
+![](img/lab2.png)
+
+
+## Lab 3- COVID Wrangling
+In this lab, I analyzed New York Times COVD-19 data, examined trends, and learned to plot/graph data with ggplot. I learned different methods of filtering the data (such as getting per-capita info instead of raw numbers), and created a map of the virus's spread across the continental US.
+
+![](img/lab3.png)
+
+## Lab 4- Statistics in R
+For this lab, I learned how to carry out statistical tests in R, such as linear regression and ANOVA. I also gained some experience interpreting statistical tests. I used these techniques to measure the effect of environmental factors on the physiology of different aquatic species.
+
+![](img/lab4.png)
+
+## Lab 5- Machine Learning - Workflows
+This lab was my first experience setting up machine learning models. I learned to set up processing recipes, and compare the performance of different ML models. The modelling techniques were used to examine relationships in the CAMELS hydrology dataset.
+
+![](img/lab5.png)
+## Lab 6- Machine Learning - Tuning
+
+In this lab, I built on my machine learning skills, tuning hyperparameter for increased model performance. I also learned how to compare the performance of different tunings, comparing them to split testing data, and overall optimize ML performance. 
+![](img/lab6.png)
+
+## Lab 7- Distance to the Border
+
+For this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile border zone where federal agencies have claimed that the fourth amendment does not fully apply.
+
+![](img/lab7.png)
+
