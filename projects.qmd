@@ -54,7 +54,7 @@ In this lab, we completed our analysis of our data, and discussed its significan
 
 ## Lab 10- Distance to the Border
 
-For this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile border zone where federal agencies have claimed that the fourth amendment does not fully apply. Shown below is that map.
+For this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile US border zone. Shown below is that map.
 
 ![](img/lab7.png)
 
