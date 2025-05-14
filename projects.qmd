@@ -7,36 +7,56 @@ In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wr
 ## Lab 1- Personal Portfolio
 
 In this lab, I learned how to setup an independent website on github sites, as well as basic knowledge of the github workflow. I also learned some basic principles of HTML and website design, as well as used Rstudio for the first time.
+![](img/lab1.png)
 
 ## Lab 2- Minnesota Tree Growth
 
-In this lab, I learned the basics of data manipulation through the dplyr package. I learned sorting, grouping, sumarization, as well as basic dataframe manipulation tools like slice, filter, and mutate.
+In this lab, I learned the basics of data manipulation through the dplyr package. I learned sorting, grouping, sumarization, as well as basic dataframe manipulation tools like slice, filter, and mutate. Pictured is the tree identified with the fastest growth rate.
 
 ![](img/lab2.png)
 
 
 ## Lab 3- COVID Wrangling
-In this lab, I analyzed New York Times COVD-19 data, examined trends, and learned to plot/graph data with ggplot. I learned different methods of filtering the data (such as getting per-capita info instead of raw numbers), and created a map of the virus's spread across the continental US.
+In this lab, I analyzed New York Times COVD-19 data, examined trends, and learned to plot/graph data with ggplot. I learned different methods of filtering the data (such as getting per-capita info instead of raw numbers), and created a map of the virus's spread across the continental US. Pictured are my graphs of new COVID cases.
 
 ![](img/lab3.png)
 
 ## Lab 4- Statistics in R
-For this lab, I learned how to carry out statistical tests in R, such as linear regression and ANOVA. I also gained some experience interpreting statistical tests. I used these techniques to measure the effect of environmental factors on the physiology of different aquatic species.
+For this lab, I learned how to carry out statistical tests in R, such as linear regression and ANOVA. I also gained some experience interpreting statistical tests. I used these techniques to measure the effect of environmental factors on the physiology of different aquatic species. Below is a boxplot that shows the differences of crab carapace with across the different surveyed sites.
 
 ![](img/lab4.png)
 
-## Lab 5- Machine Learning - Workflows
-This lab was my first experience setting up machine learning models. I learned to set up processing recipes, and compare the performance of different ML models. The modelling techniques were used to examine relationships in the CAMELS hydrology dataset.
+## Lab 5- Project Proposals
+
+In this lab, we formulated a proposal for our report project. We searched for possible data sources to analyze, and brainstormed several different possible projects. We also learned how to set up a manuscript-type quarto document, as well as use bibtex for citations. Pictured below is one of the data sources we ended up using, from Our World In Data. 
+![](img/report1.png)
+
+## Lab 6- Machine Learning - Workflows
+This lab was my first experience setting up machine learning models. I learned to set up processing recipes, and compare the performance of different ML models. The modelling techniques were used to examine relationships in the CAMELS hydrology dataset. Pictured below is a plot comparing the dataset's actual measurements against the theoretical trendline.
 
 ![](img/lab5.png)
-## Lab 6- Machine Learning - Tuning
+## Lab 7- Intro/Data/Methods
+For this lab, we completed the first few sections of our final report project. After this lab we ended up making some changes to our project structure, but for this part of the project, we gained experience sourcing and working with external datasets. Shown below is one of our data explorations, plotting emissions in US counties compared to the change in mobility around 2020.
 
-In this lab, I built on my machine learning skills, tuning hyperparameter for increased model performance. I also learned how to compare the performance of different tunings, comparing them to split testing data, and overall optimize ML performance. 
+![](img/report2.png)
+
+## Lab 8- Machine Learning - Tuning
+
+In this lab, I built on my machine learning skills, tuning hyperparameter for increased model performance. I also learned how to compare the performance of different tunings, comparing them to split testing data, and overall optimize ML performance. Shown below is a plot of predicted vs observed model performance.
 ![](img/lab6.png)
+## Lab 9- Results/Discussions
 
-## Lab 7- Distance to the Border
+In this lab, we completed our analysis of our data, and discussed its significance. This lab gave us experience with synthesizing scietific papers, as well as required us to draw on the tools we learned in class. Pictured are some of our figures from the report.
 
-For this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile border zone where federal agencies have claimed that the fourth amendment does not fully apply.
+![](img/report3.png)
+
+## Lab 10- Distance to the Border
+
+For this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile border zone where federal agencies have claimed that the fourth amendment does not fully apply. Shown below is that map.
 
 ![](img/lab7.png)
+## Lab 11- Lightning Talks
 
+For our final lab, we presented our report in a 10-minute time slot, as well as answered questions about our findings and methodology. Shown below is one of our presentation slides. This lab was good practice for presenting information to a wider audience, and condensing a large report to its core details and important points.
+
+![](img/report4.png)

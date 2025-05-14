@@ -32,34 +32,48 @@
     "href": "projects.html#lab-2--minnesota-tree-growth",
     "title": "Projects",
     "section": "Lab 2- Minnesota Tree Growth",
-    "text": "Lab 2- Minnesota Tree Growth\nIn this lab, I learned the basics of data manipulation through the dplyr package. I learned sorting, grouping, sumarization, as well as basic dataframe manipulation tools like slice, filter, and mutate."
+    "text": "Lab 2- Minnesota Tree Growth\nIn this lab, I learned the basics of data manipulation through the dplyr package. I learned sorting, grouping, sumarization, as well as basic dataframe manipulation tools like slice, filter, and mutate. Pictured is the tree identified with the fastest growth rate."
   },
   {
     "objectID": "projects.html#lab-3--covid-wrangling",
     "href": "projects.html#lab-3--covid-wrangling",
     "title": "Projects",
     "section": "Lab 3- COVID Wrangling",
-    "text": "Lab 3- COVID Wrangling\nIn this lab, I analyzed New York Times COVD-19 data, examined trends, and learned to plot/graph data with ggplot. I learned different methods of filtering the data (such as getting per-capita info instead of raw numbers), and created a map of the virus’s spread across the continental US."
+    "text": "Lab 3- COVID Wrangling\nIn this lab, I analyzed New York Times COVD-19 data, examined trends, and learned to plot/graph data with ggplot. I learned different methods of filtering the data (such as getting per-capita info instead of raw numbers), and created a map of the virus’s spread across the continental US. Pictured are my graphs of new COVID cases."
   },
   {
     "objectID": "projects.html#lab-4--statistics-in-r",
     "href": "projects.html#lab-4--statistics-in-r",
     "title": "Projects",
     "section": "Lab 4- Statistics in R",
-    "text": "Lab 4- Statistics in R\nFor this lab, I learned how to carry out statistical tests in R, such as linear regression and ANOVA. I also gained some experience interpreting statistical tests. I used these techniques to measure the effect of environmental factors on the physiology of different aquatic species."
+    "text": "Lab 4- Statistics in R\nFor this lab, I learned how to carry out statistical tests in R, such as linear regression and ANOVA. I also gained some experience interpreting statistical tests. I used these techniques to measure the effect of environmental factors on the physiology of different aquatic species. Below is a boxplot that shows the differences of crab carapace with across the different surveyed sites."
   },
   {
-    "objectID": "projects.html#lab-5--machine-learning---workflows",
-    "href": "projects.html#lab-5--machine-learning---workflows",
+    "objectID": "projects.html#lab-5--project-proposals",
+    "href": "projects.html#lab-5--project-proposals",
     "title": "Projects",
-    "section": "Lab 5- Machine Learning - Workflows",
-    "text": "Lab 5- Machine Learning - Workflows\nThis lab was my first experience setting up machine learning models. I learned to set up processing recipes, and compare the performance of different ML models. The modelling techniques were used to examine relationships in the CAMELS hydrology dataset.\n ## Lab 6- Machine Learning - Tuning\nIn this lab, I built on my machine learning skills, tuning hyperparameter for increased model performance. I also learned how to compare the performance of different tunings, comparing them to split testing data, and overall optimize ML performance."
+    "section": "Lab 5- Project Proposals",
+    "text": "Lab 5- Project Proposals\nIn this lab, we formulated a proposal for our report project. We searched for possible data sources to analyze, and brainstormed several different possible projects. We also learned how to set up a manuscript-type quarto document, as well as use bibtex for citations. Pictured below is one of the data sources we ended up using, from Our World In Data."
   },
   {
-    "objectID": "projects.html#lab-7--distance-to-the-border",
-    "href": "projects.html#lab-7--distance-to-the-border",
+    "objectID": "projects.html#lab-6--machine-learning---workflows",
+    "href": "projects.html#lab-6--machine-learning---workflows",
     "title": "Projects",
-    "section": "Lab 7- Distance to the Border",
-    "text": "Lab 7- Distance to the Border\nFor this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile border zone where federal agencies have claimed that the fourth amendment does not fully apply."
+    "section": "Lab 6- Machine Learning - Workflows",
+    "text": "Lab 6- Machine Learning - Workflows\nThis lab was my first experience setting up machine learning models. I learned to set up processing recipes, and compare the performance of different ML models. The modelling techniques were used to examine relationships in the CAMELS hydrology dataset. Pictured below is a plot comparing the dataset’s actual measurements against the theoretical trendline.\n ## Lab 7- Intro/Data/Methods For this lab, we completed the first few sections of our final report project. After this lab we ended up making some changes to our project structure, but for this part of the project, we gained experience sourcing and working with external datasets. Shown below is one of our data explorations, plotting emissions in US counties compared to the change in mobility around 2020."
+  },
+  {
+    "objectID": "projects.html#lab-8--machine-learning---tuning",
+    "href": "projects.html#lab-8--machine-learning---tuning",
+    "title": "Projects",
+    "section": "Lab 8- Machine Learning - Tuning",
+    "text": "Lab 8- Machine Learning - Tuning\nIn this lab, I built on my machine learning skills, tuning hyperparameter for increased model performance. I also learned how to compare the performance of different tunings, comparing them to split testing data, and overall optimize ML performance. Shown below is a plot of predicted vs observed model performance.  ## Lab 9- Results/Discussions\nIn this lab, we completed our analysis of our data, and discussed its significance. This lab gave us experience with synthesizing scietific papers, as well as required us to draw on the tools we learned in class. Pictured are some of our figures from the report."
+  },
+  {
+    "objectID": "projects.html#lab-10--distance-to-the-border",
+    "href": "projects.html#lab-10--distance-to-the-border",
+    "title": "Projects",
+    "section": "Lab 10- Distance to the Border",
+    "text": "Lab 10- Distance to the Border\nFor this lab, I gained experience working with spacial data (projections, state/country borders, etc). I created maps that demonstrated distances between cities and country borders, as well as creating a map of cities inside the 100-mile border zone where federal agencies have claimed that the fourth amendment does not fully apply. Shown below is that map.\n ## Lab 11- Lightning Talks\nFor our final lab, we presented our report in a 10-minute time slot, as well as answered questions about our findings and methodology. Shown below is one of our presentation slides. This lab was good practice for presenting information to a wider audience, and condensing a large report to its core details and important points."
   }
 ]
